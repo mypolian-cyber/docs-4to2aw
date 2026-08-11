@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wdft2t.vestinam.com/sitemap.xml
